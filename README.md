@@ -2,24 +2,20 @@
 
 ## Hello, World! 👋
 
-Hello, I'm Ruslan Maldybaev, a student at SPbSUT and backend developer passionate about [your interests]. I'm deeply involved in software development and constantly exploring new technologies.
+Hello, I'm Ruslan Maldybaev, a student at IMTO University and backend developer. I'm deeply involved in software development and constantly exploring new technologies.
 
 ### 🔧 Skills and Technologies
 
-- 🌐 Programming Languages: Python, Go, JavaScript (TypeScript)
+- 🌐 Programming Languages: Go, Python, JavaScript (TypeScript)
 - 🧰 Frameworks and Libraries:
-  - FastAPI, SQLAlchemy, Alembic, Shapely
-  - chi, gin, ogen
-  - Openlayers, Angular, React, TailwindCSS 
-- 💻 Experience with: PostgreSQL (PostGIS), NAST.io, gRPC, Geoserver
-
-### 🌱 Currently Learning
-
-### Coming soon...
+  - Go: fiber, gin, grpc, gorilla/ws, pgx, cleanenv, kafka-go, minio
+  - Python: FastAPI, SQLAlchemy, Shapely
+  - JavaScript: Openlayers, Angular, React, TailwindCSS 
+- 💻 Experience with: gRPC, WebSocket, MSA, Kafka, PostgreSQL (PostGIS)
 
 ### 📫 How to Reach Me
 
-- [Email](mailto:russyakrusya@gmail.com)
+- [Email](mailto:maldybaev.r@yandex.ru)
 - [LinkedIn](https://www.linkedin.com/in/ruslan-maldybaev-59193b235/)
 
 ### 📈 My GitHub Stats
@@ -33,16 +29,6 @@ Hello, I'm Ruslan Maldybaev, a student at SPbSUT and backend developer passionat
 ### 🤝 Open to Collaboration
 
 If you have interesting ideas or projects where I can contribute, feel free to get in touch!
-
-### ⚡ Fun Facts
-
-- 🧑‍🔬 I was planning to go into science as a physicist, but so far the road has led me to software engeneering
-- 🍖 I'm a self-taught chef and love experimenting with new recipes in the kitchen. My signature dish? It has to be my homemade creamy shrimp pasta.
-- ☕ Coffee is my fuel! You can often find me brewing a fresh cup while coding.
-- ⚽ I love fitness and used to play soccer for a long period of time
-- 🎵 My coding sessions are always accompanied by Alternative & Japanese Soft Indie/Rock. It's my go-to playlist for staying focused and productive.
-
-Thanks for visiting my profile! Let's create something amazing together. 😊
 
 
 <!--
